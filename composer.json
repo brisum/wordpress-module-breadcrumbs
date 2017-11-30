@@ -1,0 +1,22 @@
+{
+  "name": "brisum/wordpress-module-breadcrumbs",
+  "description": "Wordpress module breadcrumbs",
+  "keywords": [
+    "wordpress",
+    "breadcrumbs"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-breadcrumbs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\Breadcrumbs\\": "src/"
+    }
+  }
+}
